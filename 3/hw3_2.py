@@ -21,7 +21,7 @@ def pairs_multiply(list):
 
     print(f"Произведение пар чисел: {new_list}", end=" ")
 
-def task2_1(list):
+def task2_1():
     print("Test 1")
     list = [2, 3, 4, 5, 6]
     print_list(list)
@@ -32,4 +32,4 @@ def task2_1(list):
     print_list(list)
     pairs_multiply(list)
 
-task2_1(list)
+task2_1()
