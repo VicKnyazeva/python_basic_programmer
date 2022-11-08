@@ -9,7 +9,7 @@
 import os
 from random import randint
 
-CANDIES_ON_START = 29  # 2021
+CANDIES_ON_START = 2021
 MOVE_MAX_CANDIES = 28
 
 # ----------------
